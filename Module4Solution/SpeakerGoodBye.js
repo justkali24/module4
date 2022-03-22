@@ -6,3 +6,4 @@
     let speakWord = "Good Bye";
     window.byeSpeaker = byeSpeaker;
     }(window));
+
